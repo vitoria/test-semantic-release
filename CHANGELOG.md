@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.2...v1.1.3) (2020-08-18)
+
+
+### Bug Fixes
+
+* add missing semantic-release/changelog dependency ([23dd419](https://github.com/vitoriaHeliane/test-semantic-release/commit/23dd4191d2529ba27f0ca43cd191b12d92aed3f7))
+* use yarn instead of npm ([16862ff](https://github.com/vitoriaHeliane/test-semantic-release/commit/16862ff48cba44b04fbb03360b37cb3a186b427a))
+
 ## [1.1.2](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.1...v1.1.2) (2020-08-18)
 
 
