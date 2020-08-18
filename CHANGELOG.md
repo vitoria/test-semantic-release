@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.1...v1.1.2) (2020-08-18)
+
+
+### Bug Fixes
+
+* add missing plugin in the release workflow ([db4f513](https://github.com/vitoriaHeliane/test-semantic-release/commit/db4f513cb3910d13ec3e5e2cd29b48e4bcc3ee98))
+* bla bla ([6ba999b](https://github.com/vitoriaHeliane/test-semantic-release/commit/6ba999b2f486ded5dd3c183bcb4154dbc3733929))
+
 ## [1.1.1](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.0...v1.1.1) (2020-08-18)
 
 
