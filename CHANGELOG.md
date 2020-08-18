@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.2.0...v1.2.1) (2020-08-18)
+
+
+### Bug Fixes
+
+* 🐛 test ci ([5252b15](https://github.com/vitoriaHeliane/test-semantic-release/commit/5252b15179689b09d75ec68a28d1f3d9819b1ba9))
+* workflows ci ([cc0b9c4](https://github.com/vitoriaHeliane/test-semantic-release/commit/cc0b9c43c766c0f72f0f3de1810367348fe876c6))
+
 # [1.2.0](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.3...v1.2.0) (2020-08-18)
 
 
