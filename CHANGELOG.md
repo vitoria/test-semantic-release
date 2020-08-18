@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.3...v1.2.0) (2020-08-18)
+
+
+### Features
+
+* add semantic-release/github bot ([4022398](https://github.com/vitoriaHeliane/test-semantic-release/commit/4022398595561aa0b68a6f7ad3534513f1d49d26))
+
 ## [1.1.3](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.1.2...v1.1.3) (2020-08-18)
 
 
