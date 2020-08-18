@@ -5,5 +5,5 @@ interface Props {
 }
 
 export const ExampleComponent = ({ text }: Props) => {
-  return <div>{text}</div>
+  return <div>bla: {text}</div>
 }
