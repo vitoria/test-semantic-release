@@ -23,12 +23,12 @@ jobs:
         id: semantic
         with:
           extra_plugins: |
-            @semantic-release/git
             @semantic-release/commit-analyzer
             @semantic-release/release-notes-generator
-            @semantic-release/npm
             @semantic-release/changelog
+            @semantic-release/git
             @semantic-release/github
+            @semantic-release/npm
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
