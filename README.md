@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-yarn add test-semantic-release
+yarn add @vitoriaheliane/test-semantic-release
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ yarn add test-semantic-release
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'test-semantic-release'
+import MyComponent from '@vitoriaheliane/test-semantic-release'
 
 class Example extends Component {
   render() {
