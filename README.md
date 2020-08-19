@@ -1,6 +1,6 @@
 # test-semantic-release
 
-> Made with create-react-library
+> Test semantic-release configuration
 
 [![NPM](https://img.shields.io/npm/v/@vitoriaheliane/test-semantic-release.svg)](https://www.npmjs.com/package/@vitoriaheliane/test-semantic-release) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
