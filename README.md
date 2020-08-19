@@ -1,4 +1,4 @@
-# test-semantic-release
+# test semantic-release
 
 > Test semantic-release configuration
 
