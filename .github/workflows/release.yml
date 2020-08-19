@@ -18,3 +18,5 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      GIT_AUTHOR_NAME: ${{ secrets.GIT_AUTHOR_NAME }}
+      GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
