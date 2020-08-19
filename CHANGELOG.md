@@ -1,3 +1,12 @@
+## [1.3.1](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.3.0...v1.3.1) (2020-08-19)
+
+
+### Bug Fixes
+
+* bla ([2b08670](https://github.com/vitoriaHeliane/test-semantic-release/commit/2b08670ad943fe68f51c6d3d16f61c0a96180063))
+* README ([2ebebc5](https://github.com/vitoriaHeliane/test-semantic-release/commit/2ebebc5ab564b8af7cc50751a6ff4e89a2197a26))
+* remove this porra ([d218360](https://github.com/vitoriaHeliane/test-semantic-release/commit/d2183603d47dd546a73037fe71f7735fe2c454db))
+
 # [1.3.0](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.2.1...v1.3.0) (2020-08-19)
 
 
