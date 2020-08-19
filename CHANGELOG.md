@@ -1,3 +1,22 @@
+# [1.3.0](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.2.1...v1.3.0) (2020-08-19)
+
+
+### Bug Fixes
+
+* add missing GH_TOKEN ([0f70f9d](https://github.com/vitoriaHeliane/test-semantic-release/commit/0f70f9d95563131eb667e9c7278d7c1c4e6609a4))
+* add missing npm token ([a6455ba](https://github.com/vitoriaHeliane/test-semantic-release/commit/a6455ba073bc86b168955bade5290250c3e82d43))
+* aff ([1205c88](https://github.com/vitoriaHeliane/test-semantic-release/commit/1205c889850fc27ff1fe9f5b229a6667833baa20))
+* author ([6f3f7fe](https://github.com/vitoriaHeliane/test-semantic-release/commit/6f3f7fef3cf9c9a3cc343cc9837e4447b39c354f))
+* blz ([b980fa7](https://github.com/vitoriaHeliane/test-semantic-release/commit/b980fa7696877d45eff6bf05e53587ddae951a21))
+* remove tokens ([a8573ca](https://github.com/vitoriaHeliane/test-semantic-release/commit/a8573ca027b6f3efb5d320ea4f1282a0d265b46f))
+* token ([d579acb](https://github.com/vitoriaHeliane/test-semantic-release/commit/d579acbdee1a19be9c042d4098224cd9ce376cfa))
+* tokens ([3cd7d35](https://github.com/vitoriaHeliane/test-semantic-release/commit/3cd7d352b3e55990735f37cc8905b078556a21ce))
+
+
+### Features
+
+* new feature ([51197b1](https://github.com/vitoriaHeliane/test-semantic-release/commit/51197b12cb21dc2dc121b52f6717e6aaea7e08d6))
+
 ## [1.2.1](https://github.com/vitoriaHeliane/test-semantic-release/compare/v1.2.0...v1.2.1) (2020-08-18)
 
 
